@@ -5,6 +5,10 @@
     
   }
 
+  .centerImageContainer{
+      text-align: center;
+  }
+
   .background{
       background-color: cornsilk;
   }
@@ -24,6 +28,7 @@
 
 .homeTitle{
     color: #3498db;
+    text-align: center;
 }
 
 ul {
