@@ -2,7 +2,7 @@
 .container {
     max-width: 400px; /* Set a maximum width for the container */
      /* Center the container on the page */
-    
+     margin: 0 auto;
   }
 
   .centerImageContainer{
@@ -14,10 +14,11 @@
   }
 
 .homeLink{
-   display:list-item;
-   padding: 8px 12px;
-   border: 2px solid #3498db;
-   text-decoration: none;
+    text-align: center;
+    display:list-item;
+    padding: 8px 12px;
+    border: 2px solid #3498db;
+    text-decoration: none;
 
 
 }
